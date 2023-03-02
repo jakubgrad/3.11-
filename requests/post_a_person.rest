@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/persons/
+POST https://three-11.onrender.com/api/persons
 Content-Type: application/json
 
 {
-    "name":"Arto2 Hellas",
+    "name":"Arto2 Helladds",
     "number":1232132
 }
