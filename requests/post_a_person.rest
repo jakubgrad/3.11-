@@ -1,7 +1,0 @@
-POST https://three-11.onrender.com/api/persons
-Content-Type: application/json
-
-{
-    "name":"Arto2 Helladdsds",
-    "number":1232132
-}
